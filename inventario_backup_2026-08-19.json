@@ -1,0 +1,71 @@
+{
+  "inventory": [
+    {
+      "id": "P001",
+      "categoria": "Abrigos",
+      "descripcion": "Sueter Micropolar",
+      "talle": "XXL",
+      "color": "Blanco",
+      "stockInicial": 2,
+      "stockActual": 2,
+      "costoUnitario": 9900,
+      "precioVenta": 25000
+    },
+    {
+      "id": "P002",
+      "categoria": "Abrigos",
+      "descripcion": "Sueter Micropolar",
+      "talle": "XL",
+      "color": "Blanco",
+      "stockInicial": 1,
+      "stockActual": 1,
+      "costoUnitario": 9900,
+      "precioVenta": 25000
+    },
+    {
+      "id": "P003",
+      "categoria": "Abrigos",
+      "descripcion": "Sueter Micropolar",
+      "talle": "L",
+      "color": "Blanco",
+      "stockInicial": 1,
+      "stockActual": 1,
+      "costoUnitario": 9900,
+      "precioVenta": 25000
+    },
+    {
+      "id": "P004",
+      "categoria": "Abrigos",
+      "descripcion": "Sueter Micropolar",
+      "talle": "M",
+      "color": "Blanco",
+      "stockInicial": 1,
+      "stockActual": 1,
+      "costoUnitario": 9900,
+      "precioVenta": 25000
+    },
+    {
+      "id": "P005",
+      "categoria": "Abrigos",
+      "descripcion": "Sueter Micropolar",
+      "talle": "S",
+      "color": "Blanco",
+      "stockInicial": 1,
+      "stockActual": 1,
+      "costoUnitario": 9900,
+      "precioVenta": 25000
+    }
+  ],
+  "sales": [],
+  "categories": [
+    "Abrigos",
+    "Pantalones",
+    "Remeras",
+    "Camisas",
+    "Vestidos",
+    "Buzos",
+    "Accesorios"
+  ],
+  "brandName": "Twenty-One",
+  "exportedAt": "2026-08-19T11:40:06.040Z"
+}
